@@ -27,7 +27,7 @@ Apresenta um gasto diário mais alto.
 Por essa razão, a empresa deve focar seus esforços de retenção nesses grupos de risco, oferecendo incentivos para a permanência, avaliando a qualidade dos serviços e buscando entender as necessidades específicas desses clientes.
 ```
 
-#### Dicionário de dados
+## Dicionário de dados
 
 * `customerID`: número de identificação único de cada cliente
 * `Churn`: se o cliente deixou ou não a empresa 
